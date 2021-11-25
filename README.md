@@ -10,3 +10,7 @@ Various code samples related to machine learning. Coincides with included Powerp
 Install requirements:
 
 `pip install -r requirements.txt`
+
+#### Evolutionary Clustering (EvoClusterStream):
+
+Can be found here: https://github.com/kspurlock/EvoClusterStream
